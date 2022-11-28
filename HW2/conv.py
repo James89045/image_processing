@@ -33,3 +33,10 @@ def conv(image, kernel, average=False, verbose=False):
            
 
     return output
+
+
+
+
+
+
+    
